@@ -43,6 +43,12 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 [![](https://github-readme-streak-stats.herokuapp.com/?user=daniklj72&theme=material-palenight)](https://github.com/Daniklj72)
 </div>
 
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 <!--
 **Daniklj72/Daniklj72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
