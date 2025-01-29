@@ -23,12 +23,10 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <!-- <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"> -->
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
-  
-  
+    
 </span>
 
 <h4> Other Tools and Technologies </h4>
@@ -40,7 +38,6 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=daniklj72&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Daniklj72)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=daniklj72&theme=material-palenight)](https://github.com/Daniklj72)
 </div>
 
 ----
@@ -49,17 +46,3 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
-<!--
-**Daniklj72/Daniklj72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
