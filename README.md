@@ -36,6 +36,13 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </span>
 
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=daniklj72&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Daniklj72)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=daniklj72&theme=material-palenight)](https://github.com/Daniklj72)
+</div>
+
 <!--
 **Daniklj72/Daniklj72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
